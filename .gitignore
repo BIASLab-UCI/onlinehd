@@ -1,0 +1,5 @@
+/poetry.lock
+**/__pycache__/
+/docs/_autosummary/
+/docs/_build/
+!/examples/data/README.md
