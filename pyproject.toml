@@ -1,7 +1,10 @@
 [tool.poetry]
 name = "onlinehd"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+license = "MIT"
+description = "Efficient single-pass hyperdimensional classifier"
+readme = "README.md"
+repository = "https://gitlab.com/biaslab/onlinehd"
 authors = ["alehd <ale.hdz333@ciencias.unam.mx>"]
 
 [tool.poetry.dependencies]
